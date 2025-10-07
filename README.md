@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Sneha Pandey
 
-<!--
-**vedsneh/vedsneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Pre Final Year Information Technology student at MMMUT, passionate about building tech solutions and improve my problem-solving skills.  
+🌐 Portfolio: [Sneha Pandey](https://portfolio-n69j.vercel.app/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Aspiring Full-Stack Developer | MERN Stack Enthusiast 
+- 🎯 Solving Problems using Data Structures and Algorithms  
+- 🌱 Currently exploring Backend and APIs  
+
+---
+
+## 🧠 Tech Stack
+**Languages:** C++, C, JavaScript, Python 
+**Frontend:** React.js, HTML, CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🔗 Coding Profiles
+- [LeetCode](https://leetcode.com/u/Sneha_Pandey95///)
+- [CodeForces](https://codeforces.com/profile/snehapandey.ved2005//)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/snehapanfchz///)
+
+---
+
+## 📊 GitHub Stats
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedsneh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedsneh&layout=compact&theme=radical)
+
+---
+
+## 💬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/sneha-pandey-1a0535294/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)]https://portfolio-n69j.vercel.app/)
+
