@@ -22,9 +22,9 @@ I'm a Pre Final Year Information Technology student at MMMUT, passionate about b
 ---
 
 ## 🔗 Coding Profiles
-- [LeetCode](https://leetcode.com/u/Sneha_Pandey95///)
-- [CodeForces](https://codeforces.com/profile/snehapandey.ved2005//)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/snehapanfchz///)
+- [LeetCode](https://leetcode.com/u/Sneha_Pandey95/p)
+- [CodeForces](https://codeforces.com/profile/snehapandey.ved2005p)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/snehapanfchzp)
 
 ---
 
@@ -35,6 +35,6 @@ I'm a Pre Final Year Information Technology student at MMMUT, passionate about b
 ---
 
 ## 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/sneha-pandey-1a0535294/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)]https://portfolio-n69j.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-pandey-1a0535294/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white)](https://portfolio-n69j.vercel.app/)
 
