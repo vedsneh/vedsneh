@@ -19,12 +19,8 @@ I'm a Pre Final Year Information Technology student at MMMUT, passionate about b
 **Database:** MongoDB  
 **Tools:** Git, GitHub, VS Code  
 
----
 
-## 🔗 Coding Profiles
-- [LeetCode](https://leetcode.com/u/Sneha_Pandey95/p)
-- [CodeForces](https://codeforces.com/profile/snehapandey.ved2005p)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/snehapanfchzp)
+
 
 ---
 
